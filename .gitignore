@@ -39,16 +39,16 @@ logs/
 .env
 
 application-dev.properties
-application-dev-mdi2-maria.properties
-application-dev-mdi2-mysql.properties
-application-dev-mdi2-oracle.properties
-application-dev-mdi2-postgres.properties
+application-dev-user-maria.properties
+application-dev-user-mysql.properties
+application-dev-user-oracle.properties
+application-dev-user-postgre.properties
 
 application-dev.yml
-application-dev-mdi2-maria.yml
-application-dev-mdi2-mysql.yml
-application-dev-mdi2-oracle.yml
-application-dev-mdi2-postgres.yml
+application-dev-user-maria.yml
+application-dev-user-mysql.yml
+application-dev-user-oracle.yml
+application-dev-user-postgre.yml
 
 # 데이터베이스 파일
 *.db
